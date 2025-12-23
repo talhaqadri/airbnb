@@ -1,2 +1,2 @@
 # airbnb
-This project about the Airbnb backend
+This project about the Airbnb backend.
