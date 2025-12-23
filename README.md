@@ -1,11 +1,11 @@
-# airbnb
+# Airbnb Backend Project
 
-This project about the Airbnb backend.
+This project is about the Airbnb backend.
 
 # Engineer
 
-I am software Engineer and React.js developer.
+I am a Software Engineer and React.js Developer.
 
-# practis
+# Practice
 
-Now i am practise the git command
+I am currently practicing Git commands on this project.
